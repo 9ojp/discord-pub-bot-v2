@@ -1,0 +1,30 @@
+{
+  "name": "9ojp-v14-pm2-welcome",
+  "version": "1.0.0",
+  "description": "9ojp v14 PM2 Custom PM2 Bots",
+  "main": "beş.js",
+  "scripts": {
+    "test": "node beş.js",
+    "start": "node beş.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "9ojp",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^14.9.0",
+    "ffmpeg-static": "^5.1.0",
+    "play-dl": "^1.9.6",
+    "tweetnacl": "^1.0.3"
+  },
+  "keywords": [
+    "9ojp",
+    "5",
+    "v14",
+    "discord-v14",
+    "v14 bot",
+    "discord v14"
+  ]
+}
